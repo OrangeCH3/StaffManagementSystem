@@ -1,5 +1,5 @@
-# StaffManagementSystem-Demo
+# StaffManagementSystem
 
-StaffManagementSystem-Demo
+StaffManagementSystem
 
 The learning process of Staff Management System, Let's study together!
